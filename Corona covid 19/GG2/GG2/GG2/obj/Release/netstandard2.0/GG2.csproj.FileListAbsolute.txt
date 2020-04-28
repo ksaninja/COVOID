@@ -1,0 +1,13 @@
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\bin\Release\netstandard2.0\GG2.deps.json
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\bin\Release\netstandard2.0\GG2.dll
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\bin\Release\netstandard2.0\ref\GG2.dll
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\bin\Release\netstandard2.0\GG2.pdb
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\GG2.csprojAssemblyReference.cache
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\GG2.AssemblyInfoInputs.cache
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\GG2.AssemblyInfo.cs
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\GG2.dll
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\ref\GG2.dll
+C:\Users\Khalid Osama\source\repos\GG2\GG2\GG2\obj\Release\netstandard2.0\GG2.pdb

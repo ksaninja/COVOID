@@ -1,0 +1,189 @@
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll.config
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\FitLifter_API.pdb
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe.config
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csc.rsp
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe.config
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\csi.rsp
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.AppContext.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Console.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe.config
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\vbc.rsp
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Web.Http.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.xml
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Web.Http.xml
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csprojAssemblyReference.cache
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csproj.CopyComplete
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.dll
+C:\Users\Khalid\source\repos\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.pdb
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll.config
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.pdb
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe.config
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.rsp
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe.config
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.rsp
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.AppContext.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Console.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe.config
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.rsp
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.xml
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.xml
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csprojAssemblyReference.cache
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csproj.CopyComplete
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.dll
+C:\Users\Khalid Osama\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.pdb
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll.config
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\FitLifter_API.pdb
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.exe.config
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csc.rsp
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.exe.config
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\csi.rsp
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.AppContext.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Console.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.exe.config
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\vbc.rsp
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Newtonsoft.Json.xml
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.xml
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csprojAssemblyReference.cache
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.csproj.CopyComplete
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.dll
+C:\Users\Khalid\Dropbox\Homathon\Corona covid 19\FitLifter_API\FitLifter_API\obj\Debug\FitLifter_API.pdb

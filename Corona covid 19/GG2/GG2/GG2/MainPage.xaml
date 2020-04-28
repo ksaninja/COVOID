@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GG2.MainPage">
+
+    <Grid BackgroundColor="#07bd8e" RowSpacing="0" ColumnSpacing="0">
+        <!-- Place new controls here -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="90"/>
+            <RowDefinition />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="9"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width="40"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <Grid BackgroundColor="#07bd8e" Grid.Row="1" Grid.Column="1">
+                <!-- Place new controls here -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1"/>
+                    <RowDefinition />
+                    <RowDefinition Height="20"/>
+                </Grid.RowDefinitions>
+
+                <StackLayout Orientation="Vertical" Spacing="2" Grid.Row="1" Grid.Column="0" HorizontalOptions="CenterAndExpand">
+                <Image Source="logo.png" WidthRequest="200" HeightRequest="100" VerticalOptions="FillAndExpand"/>
+                <Label Text="COVID 19" FontSize="20" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+
+            </Grid>
+
+
+        <Grid Grid.Row="2" Grid.Column="1">
+            <!-- Place new controls here -->
+            <Grid.RowDefinitions>
+                
+                <RowDefinition Height="1" />
+              
+            </Grid.RowDefinitions>
+
+
+            <Frame Grid.Row="1" Grid.Column="0" BackgroundColor="Transparent" HasShadow="True" CornerRadius="10" Margin="1,1,1,1" Padding="1" VerticalOptions="FillAndExpand">
+                <StackLayout Orientation="Vertical" Padding="5">
+                    <Image Source="img001.png" WidthRequest="100" HeightRequest="300" VerticalOptions="FillAndExpand"/>
+                </StackLayout>
+            </Frame>
+        </Grid>
+
+
+        <Grid Grid.Row="4" Grid.Column="1" >
+            <!-- Place new controls here -->
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="10" />
+                <RowDefinition Height="40" />
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="0" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="3" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="0" />
+
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btn1" Grid.Row="1" Grid.Column="1" Text="Register" BorderColor="White" BorderWidth="3"  HorizontalOptions="Center" VerticalOptions="End" TextColor="White" FontSize="14" BackgroundColor="#07bd8e" WidthRequest="190" HeightRequest="40" CornerRadius="20" Clicked="OOO"></Button>
+
+            <Button x:Name="btn2" Grid.Row="1" Grid.Column="3" Text="Login" BorderColor="#07bd8e" BorderWidth="3"  HorizontalOptions="Center" VerticalOptions="End" TextColor="#07bd8e" FontSize="14" BackgroundColor="White" WidthRequest="190" HeightRequest="40" CornerRadius="20" Clicked="GGG"></Button>
+
+
+
+            
+
+
+
+
+
+        </Grid>
+
+
+        <Grid Grid.Row="6" Grid.Column="1">
+            <!-- Place new controls here -->
+
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition  />
+                <ColumnDefinition Width="7" />
+                <ColumnDefinition Width="3" />
+                <ColumnDefinition Width="7" />
+                <ColumnDefinition  />
+
+            </Grid.ColumnDefinitions>
+
+
+
+            <!--<Button x:Name="btn3" Grid.Column="1"    HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="White" WidthRequest="7" HeightRequest="7" CornerRadius="5"></Button>
+
+            <Button x:Name="btn4" Grid.Column="3"   HorizontalOptions="Center" VerticalOptions="End"  BackgroundColor="Yellow" WidthRequest="7" HeightRequest="7" CornerRadius="5"></Button>-->
+
+
+            <!--<Label Text="Skip" FontSize="17" TextColor="White" Grid.Column="4" HorizontalTextAlignment="End" >
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="KKK" />
+                </Label.GestureRecognizers>
+            </Label>-->
+
+
+        </Grid>
+
+
+    </Grid>
+
+
+</ContentPage>
